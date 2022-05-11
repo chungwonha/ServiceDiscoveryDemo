@@ -1,0 +1,1 @@
+java -jar -DPORT=8888 .\target\bluewaterdataservice-0.0.1-SNAPSHOT.jar
